@@ -1,0 +1,7 @@
+* Goal
+Make Mac and Windows experiences the same!
+* Tools
+[[file:../../orgs/20210605205238-autohotkey.org][Autohotkey]] for Vim-style arror actions.
+[[file:../../orgs/20210605215654-sharpkeys.org][Sharpkeys]] for remapping modifier keys in [[file:../../orgs/20210605210240-windows_registry.org][Windows registry]].
+* Files
+Mapping is saved in this directory.
